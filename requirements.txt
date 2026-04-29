@@ -1,0 +1,17 @@
+```text name=requirements.txt
+# Core dependencies
+sympy>=1.12
+numpy>=1.24.0
+
+# Testing
+pytest>=7.4.0
+pytest-cov>=4.1.0
+
+# Development
+black>=23.0.0
+flake8>=6.0.0
+mypy>=1.5.0
+
+# sanam-nama integration for full ecosystem
+# pydantic>=2.0.0
+# requests>=2.31.0
